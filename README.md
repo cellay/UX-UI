@@ -29,5 +29,5 @@
 
 ![Imagen 1][1]  ![Imagen 2][2]
 
- [1]: images/img1.png
- [2]: images/img2.png
+ [1]: Images/img1.png
+ [2]: Images/img2.png
